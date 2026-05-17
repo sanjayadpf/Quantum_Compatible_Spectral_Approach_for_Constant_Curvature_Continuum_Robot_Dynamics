@@ -1,6 +1,6 @@
-<h1>Quantum Spectral Solvers for Linearized Dynamics of Constant-Curvature Continuum Robots</h1>
+<h1>A Quantum-Compatible Spectral Approach for Constant-Curvature Continuum Robot Dynamics</h1>
 
-<h2>CSCE 640 Quantum Algorithms</a></h2>
+<h2>Project Repository</a></h2>
 
 <p>
 This repository implements <b>Chebyshev pseudospectral solvers</b> and 
